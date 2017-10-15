@@ -2,7 +2,7 @@
 
 var name = "Emilie"
 var height = 69
-var hat size = "giant oh geez"
+var hat = "giant oh geez"
 
 console.log("Name:")
 console.log(name)
@@ -10,5 +10,5 @@ console.log(name)
 console.log("Height:")
 console.log(height)
 
-console.log("Hat Size:")
-console.log(hat size)
+console.log("Hat:")
+console.log(hat)
